@@ -1,0 +1,64 @@
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+div#topHeaderRow {
+    font-size: 0.9em;
+}
+
+.price {
+    color: red;
+    font-weight: 800;
+}
+
+.similarTitle {
+    font-size: 0.9em;
+}
+
+.cartText {
+    font-size: 0.9em;
+}
+
+footer {
+    margin-top: 1em;
+    background-color: #E7E7E7;
+
+}
+
+.list-group-item {
+    border: 0;
+}
+
+.FCF {
+    margin: 5px;
+}
+
+.tight-form-group .btn {
+    width: 100%;
+    margin-top: 0;
+}
+
+#copyrightRow {
+    background-color: #3A3A3A;
+    color:gray;
+}
+
+#customerService {
+    background: transparent;
+}
+
+#customerService li {
+    background: transparent;
+}
+
+.footerImg {
+    margin-bottom: 10px;
+}
+
+#copyrightRow{
+    font-size: 0.9em;
+    padding: 10px 40px 10px 40px;
+}
