@@ -1,0 +1,84 @@
+.content, .pageNum , .rightBox{
+    margin: 20px auto;
+    border-radius: 15px;
+    background-clip: padding-box;
+    width: 75%;
+    padding: 35px 35px 15px 35px;
+    background: #fff;
+    border: 1px solid #eaeaea;
+    box-shadow: 0 0 25px #cac6c6;
+
+    word-wrap: break-word;
+
+}
+
+.pageNum {
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+}
+
+.pageNum span {
+    color: gray;
+}
+
+.name {
+    font-size: 110%;
+    font-family: 黑体;
+    color: #000000a0;
+}
+
+.learn_more {
+    font-size: 80%;
+}
+
+a {
+    padding:10px;
+    font-weight: bold;
+    font-size: 150%;
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.rightBox {
+    padding:15px 5px;
+    width: 8%;
+    float: right;
+    margin-right: 140px;
+}
+
+
+.nav {
+    text-align: center;
+    margin:20px auto;
+    padding-bottom: 10px;
+    width: 50%;
+}
+
+.nav img{
+    width: 20%;
+}
+.rightBox li{
+    list-style-type:none;
+}
+.rightBox li a{
+    font-size: 120%;
+    font-weight: bold;
+}
